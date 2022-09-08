@@ -1,0 +1,63 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #914b27;
+}
+
+.head-satu{
+    margin: 0 50px ;
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+}
+
+.head-satu nav img{
+    height: 100px;
+}
+
+.head-dua{
+    background-color: #e3e2e7;
+    margin: 0 50px;
+    height: 50px;
+}
+
+.head-dua nav{
+    display: flex;
+    justify-content: center;
+}
+
+.head-tiga{
+    background-color: #7a1014;
+    margin: 0 50px;
+    height: 60px;
+    color: white;
+}
+
+.head-tiga nav{
+    display: flex;
+    justify-content: center;
+}
+
+.div-satu {
+    margin: 0 50px;
+    background-color: #e3e2e7;
+}
+
+.panjang {
+    width: 100px;
+}
+
+input [type="text"]{
+    width: 100px;
+} 
+
+.text {
+    margin: 0 50px;
+    background-color: #fff;
+}
+
+.kanan12 {
+    margin: 0 50px ;
+}
